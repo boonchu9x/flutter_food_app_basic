@@ -2,10 +2,9 @@
 
 
 ## Main Screen
-![Image of Yaktocat](assets/screenshot/main.png)
+![Image of Yaktocat](assets/screenshot/main.png)  ![Image of Yaktocat](assets/screenshot/detail_list.png)  ![Image of Yaktocat](assets/screenshot/detail_list_emtpty.png)
 
 ## Detail List Screen
-![Image of Yaktocat](assets/screenshot/detail_list.png)
+
 
 ## Detail List Empty Screen
-![Image of Yaktocat](assets/screenshot/detail_list_emtpty.png)
